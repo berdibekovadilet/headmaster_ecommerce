@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "title": "Apple",
+      "description": " Apple AirPods Max This page provides reviews and other infos about the Apple MacBook Air 13 inch 2015-03 of the series MacBook Air laptop.",
+      "image": "https://max.kg/nal/img/19228/b_tov_11430030_26e9697a.jpg",
+      "price": "200",
+      "currency": "$",
+      "id": 3
+    },
+    {
+      "title": "Sony",
+      "description": "В наушниках с шумоподавлением WH-XB900N из линейки EXTRA BASS™2 от Sony можно услышать весь спектр низких частот и мощные басы",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1140_0.jpg",
+      "price": "150",
+      "currency": "$",
+      "id": 6
+    },
+    {
+      "title": "Bose",
+      "description": "And that's just the beginning. QuietComfort 35 wireless headphones",
+      "price": "400",
+      "currency": "$",
+      "image": "https://sonycenter.kz/image/cache_v/catalog/001_SMARTUM/WHCH500H.E/f9bdda615d8e1c42a7d6e2efc0835dc8-zoom-600x600.png",
+      "id": 7
+    },
+    {
+      "image": "https://max.kg/nal/img/19228/b_tov_11430030_26e9697a.jpg",
+      "title": "Apple",
+      "description": "AirPods Pro. Активное шумоподавление, Прозрачный режим, вкладыши трёх размеров и невероятно лёгкий корпус.",
+      "price": "500",
+      "currency": "$",
+      "id": 8
+    },
+    {
+      "title": "Sony WF-XB700",
+      "description": " Sony",
+      "price": "200",
+      "currency": "$",
+      "image": "https://sonycenter.kz/image/cache_v/catalog/001_SMARTUM/WHCH500H.E/f9bdda615d8e1c42a7d6e2efc0835dc8-zoom-600x600.png",
+      "id": 9
+    },
+    {
+      "title": "Bose",
+      "description": "Купить Беспроводные наушники Bose AirPods Pro с доставкой по Кыргызстану в Интернет магазине",
+      "price": "100",
+      "currency": "$",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1140_0.jpg",
+      "id": 11
+    },
+    {
+      "title": "Sony",
+      "description": "Sony WH-1000XM4 Лучшее что можно купить за 20000. Там есть всё",
+      "price": "180",
+      "currency": "$",
+      "image": "https://max.kg/nal/img/19228/b_tov_11430030_26e9697a.jpg",
+      "id": 12
+    },
+    {
+      "title": "Bose",
+      "description": "Стильные регулируемые наушники закрытого типа MDR-XB550AP с технологией Extra Bass",
+      "price": "110",
+      "currency": "$",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1140_0.jpg",
+      "id": 13
+    }
+  ]
+}
